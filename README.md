@@ -61,7 +61,7 @@ python main.py
 ---
 
 ## 👤 Autore
-Progetto sviluppato individualmente per il corso di **Ingegneria della Conoscenza** (a.a. 2023/2024).
+Progetto sviluppato individualmente per il corso di **Ingegneria della Conoscenza**
 
 **Nome:** Antonio Graziani  
 **Matricola:** 738723  
